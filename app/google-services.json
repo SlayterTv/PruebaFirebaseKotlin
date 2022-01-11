@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1021302836028",
+    "project_id": "pruebas-f642a",
+    "storage_bucket": "pruebas-f642a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021302836028:android:2cd9b6455c5e72f5a22c39",
+        "android_client_info": {
+          "package_name": "com.slaytertv.pruebasfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021302836028-i8vjbdr5vjgdtr45blrv54fqa9khv8r7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.slaytertv.pruebasfirebase",
+            "certificate_hash": "db93f31876fa97779a9df0e415f67f0d3056952b"
+          }
+        },
+        {
+          "client_id": "1021302836028-t5nqhvm9fdm402pdj983c9om7b7jj02i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ5Pfl51WGWaOdS4E141hgdAQ6mb3sDEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021302836028-t5nqhvm9fdm402pdj983c9om7b7jj02i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
